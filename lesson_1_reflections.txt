@@ -1,0 +1,27 @@
+How did viewing a diff between two versions of a file help you see the bug that was introduced?
+
+    It is so much easier to compare rather than going line by line.
+
+How could having easy access to the entire history of a file make you a more efficient programmer in the long term?
+
+    Makes it easier to track and learn about updates live. Also helps in going back to previously working version without any hassle. 
+
+What do you think are the pros and cons of manually choosing when to create a commit, like you do in Git, vs having versions automatically saved, like Google docs does?
+
+    Git commit will be with a purpose. Automatic can be too many changes and difficult when is the good break point if you want to go back. Though Git commit is more subjective and not easily understood by others unless descibed appropirately in Updates file.
+
+Why do you think some version control systems, like Git, allow saving multiple files in one commit, while others, like Google Docs, treat each file separately?
+
+    As repository usually consists of connected files. So to run the commited version we need technically all connected files at that stage. And it would be quite difficult to go back to say file a version x and file b version y combines give a version z. Instead version z has all connected files of version z. So easy.
+
+How can you use the commands git log and git diff to view the history of files?
+
+    Its so easy to first get file by cloning. git log creates like a crc check kind of code and some comments in it by user with which you can compare the files by using git diff. + is added (green) and - is removed (red). Also q for quitting the log once you have found what you are looking for or else pressing down arrow key to know more.
+
+How might using version control make you more confident to make changes that could break something?
+
+    I know that I can anytime go back to older version or most recent working version.
+
+Now that you have your workspace set up, what do you want to try using Git for?
+
+    To write my first program in python and see how I can use it review my changes in the code as i improve.

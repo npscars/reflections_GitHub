@@ -1,0 +1,4 @@
+What happens when you initialize a repository? Why do you need to do it?
+
+	When you initialize a repository it just creates a .git folder with an empty repository. You can then decide whether to add one or more files from the folder you initialized.
+
