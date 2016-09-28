@@ -7,4 +7,9 @@ How is the staging area different from the working directory and the repository?
 	Staging area is in the middle of working directory and git repository. It helps in making sure that you eventually commit only those files which you have added in staging area with one commit command.
 
 How can you use the staging area to make sure you have one commit per logical change?
+	
 	If we change 2 files but having one logical change then we can add two files seperately but then commit once we finish changes in both the fiels.
+
+What are some situations when branches would be helpful in keeping your history organized? How would branches help?
+
+	Branches would be really helpful if you wnat to have either a different flavour of game/tool/program or lets say you want to try an experimental feature and don't want to disturb the main branch.
