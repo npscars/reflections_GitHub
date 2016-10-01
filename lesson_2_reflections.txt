@@ -16,4 +16,9 @@ What are some situations when branches would be helpful in keeping your history 
 
 How do the diagrams help you visualize the branch structure?
 	
-	Quite neat way of understanding how different branches are connected.
+	Quite neat way of understanding how different branches are connected. But not that great grahpics. Its quite basics but probably with command line this what you should expect.
+
+What is the result of merging two branches together? Why do we represent it in the diagram the way we do?
+	
+	Additions of both branches are merged and if there is a issue in terms of spaces because of windows and mac CFLF thingi then it creates a conflict.
+	Diagram helps visualize which branches are named and also which branches could be merged and so on.
