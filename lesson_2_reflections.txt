@@ -22,3 +22,7 @@ What is the result of merging two branches together? Why do we represent it in t
 	
 	Additions of both branches are merged and if there is a issue in terms of spaces because of windows and mac CFLF thingi then it creates a conflict.
 	Diagram helps visualize which branches are named and also which branches could be merged and so on.
+
+What are the pros and cons of Git’s automatic merging vs. always doing merges manually?
+
+	Automatic merging is pretty cool in that sense it shows exactly what has changed and if there is conflict it opens in a merged conflict file. This allows to make changes there andd then and resolve the conflict. In certain situations where you need to discuss with other partners it will show exactly the conflicting area. Also, it might be better to do diff before merging files when especially two or more people are working on these files.
