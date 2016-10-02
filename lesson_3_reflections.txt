@@ -18,3 +18,7 @@ What is the benefit of having a copy of the last known state of the remote store
 How would you collaborate without using Git or GitHub? What would be easier, and what would be harder?
 
 	You update your changes in Git and push your changes in GitHub. Then you can ask for pull requests from the other user which is essentially asking whether the changes can be merged to master branch. Its quite complicated.
+
+When would you want to make changes in a separate branch rather than directly in master? What benefits does each approach have?
+
+	If you are sharing the code with someone or a team then it is better to commit the changes first to the branch with each others suggestion and then once agreed on a solution commit in individual branch and then merge it. Directly commiting to master branch could create confusion and might be difficult to trace.
