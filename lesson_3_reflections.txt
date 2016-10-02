@@ -14,3 +14,7 @@ Describe the differences between forks, clones, and branches. When would you use
 What is the benefit of having a copy of the last known state of the remote stored locally?
 
 	So when you are using push and pull you will come to know the conflict before hand.
+
+How would you collaborate without using Git or GitHub? What would be easier, and what would be harder?
+
+	You update your changes in Git and push your changes in GitHub. Then you can ask for pull requests from the other user which is essentially asking whether the changes can be merged to master branch. Its quite complicated.
